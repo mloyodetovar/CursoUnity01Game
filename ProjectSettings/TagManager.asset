@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Coin
+  - Life
+  - Dead
+  - Warning
+  - ColliderDead
+  - NewFase
+  - Plataform
+  - GroundBreak
+  - ColliderEnemy
+  - Attack
+  - Zombie
+  - FxTemporaire
+  - Pines
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cristals
+  - Water
+  - UI
+  - 
+  - Attack
+  - Player
+  - Ground
+  - Enemy
+  - Trigger
+  - ObjFront
+  - Chao
+  - Coin
+  - Life
+  - Arrow
+  - ColliderDead
+  - NewFase
+  - ObjBack
+  - Ornament
+  - ColliderEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 2974113525
+    locked: 0
+  - name: bg
+    uniqueID: 3533751615
+    locked: 0
+  - name: Zombie
+    uniqueID: 710658081
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ObjBack
+    uniqueID: 4262704391
+    locked: 0
+  - name: Enemy
+    uniqueID: 1316184823
+    locked: 0
+  - name: Player
+    uniqueID: 4092959937
+    locked: 0
+  - name: ObjFront
+    uniqueID: 3219302269
+    locked: 0
+  - name: Chao
+    uniqueID: 1634090069
+    locked: 0
+  - name: Ornament
+    uniqueID: 657266415
+    locked: 0
+  - name: BreakFloor
+    uniqueID: 2032857685
+    locked: 0
+  - name: UI
+    uniqueID: 3426020603
+    locked: 0
